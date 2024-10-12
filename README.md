@@ -2,6 +2,8 @@
 
 **LogoCraft** is a Logo Making App created from scratch using **React** and **Tailwind CSS**.
 
+### Checkout the Demo website by clicking [Here](https://logocraft-shjz.netlify.app/) 🚀
+
 ## Table of Contents
 
 - [Features 🔥](#features)
