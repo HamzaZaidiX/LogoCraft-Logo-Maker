@@ -1,6 +1,8 @@
 # LogoCraft 🖌️ - Logo Maker
 
-**LogoCraft** is a Logo Making App created from scratch using **React** and **Tailwind CSS**.
+**LogoCraft** 🖌 is a Logo Making App created from scratch using **React** and **Tailwind CSS**. 💻
+
+### You can checkout the Demo app on 🦸🚀
 
 ## Table of Contents
 
@@ -21,13 +23,13 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/logo-maker.git
+git clone https://github.com/HamzaZaidiX/LogoCraft-Logo-Maker.git
 ```
 
 2. Install dependencies:
 
 ```bash
-cd logo-maker
+cd project-name
 npm install
 ```
 
@@ -36,8 +38,6 @@ npm install
 ```bash
 npm start
 ```
-
-### You can checkout the Demo app on 🦸🚀
 
 ## Screenshots 📷 :
 ![image](https://github.com/user-attachments/assets/d9a1a2e1-08aa-4c4e-b217-6645d2dbe96c)
