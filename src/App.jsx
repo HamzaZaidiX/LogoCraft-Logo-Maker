@@ -33,7 +33,7 @@ const Home = () => {
             <Button className="mt-4">Share</Button>
             <h2 className="flex flex-wrap justify-center inline mt-5 font-bold">
               Build with{" "}
-              <Heart className="w-4 h-4 text-red-500 ext-center" />{" "}
+              <Heart className="w-4 h-4 text-center text-[#e24040] animate-ping" />{" "}
               By{" "}
               <a className="text-[#008cff]" href="https://github.com/HamzaZaidiX">
                 Hamza Zaidi
