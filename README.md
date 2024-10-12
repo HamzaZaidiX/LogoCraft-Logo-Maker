@@ -7,6 +7,7 @@
 - [Features 🔥](#features)
 - [Getting Started 🏁](#getting-started)
 - [Built With 🛠️](#built-with)
+- [Screenshots 📷](#screenshots)
 - [License 📜](#license)
 
 ## Features 🔥
@@ -36,12 +37,11 @@ npm install
 npm start
 ```
 
-## You can checkout the Demo app on 🦸🚀
-### Screenshots 📷 :
+### You can checkout the Demo app on 🦸🚀
+
+## Screenshots 📷 :
 ![image](https://github.com/user-attachments/assets/d9a1a2e1-08aa-4c4e-b217-6645d2dbe96c)
 ![my_logo](https://github.com/user-attachments/assets/157cd520-88ea-463c-bf3c-5e6a816e77e7)
-
-
 
 ## Built With 🛠️
 
