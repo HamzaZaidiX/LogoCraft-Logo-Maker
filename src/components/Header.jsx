@@ -9,7 +9,7 @@ const Header = ({ DownloadIcon }) => {
         className="flex items-center gap-2"
         onClick={() => DownloadIcon(Date.now())}
       >
-        <Download className="w-4 h-4" /> Download
+        <Download className="w-4 h-4 animate-bounce" /> Download
       </Button>
     </div>
   );
